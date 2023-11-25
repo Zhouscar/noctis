@@ -630,7 +630,7 @@
             "source.zig keyword.structure"
          ],
          "settings": {
-            "foreground": "#c9795a"
+            "foreground": "#c67a5c"
          }
       },
       {
@@ -667,7 +667,7 @@
             "text.tex markup.raw"
          ],
          "settings": {
-            "foreground": "#4e9c7a"
+            "foreground": "#5b9a7d"
          }
       },
       {
@@ -689,7 +689,7 @@
             "source.zig keyword.constant.default"
          ],
          "settings": {
-            "foreground": "#8e84d0"
+            "foreground": "#8f86bf"
          }
       },
       {
@@ -716,7 +716,7 @@
             "source.tf support.class"
          ],
          "settings": {
-            "foreground": "#5498a1"
+            "foreground": "#6b949a"
          }
       },
       {
@@ -817,7 +817,7 @@
             "invalid.illegal"
          ],
          "settings": {
-            "foreground": "#c47b5e"
+            "foreground": "#bc7f66"
          }
       },
       {

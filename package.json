@@ -2,7 +2,7 @@
    "name": "noctis-wcag",
    "displayName": "Noctis WCAG",
    "description": "Forked from Noctis with light modes meeting the minimum WCAG contrast.",
-   "version": "0.0.2",
+   "version": "0.0.4",
    "publisher": "Zhouscar",
    "icon": "images/logo.png",
    "engines": {

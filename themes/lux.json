@@ -398,7 +398,7 @@
             "keyword.control.def.ruby"
          ],
          "settings": {
-            "foreground": "#d52b70"
+            "foreground": "#e10069"
          }
       },
       {
@@ -463,7 +463,7 @@
             "markup.fenced_code.block"
          ],
          "settings": {
-            "foreground": "#bb5500"
+            "foreground": "#c94800"
          }
       },
       {
@@ -528,7 +528,7 @@
             "entity.name.type"
          ],
          "settings": {
-            "foreground": "#a86044"
+            "foreground": "#ac5d40"
          }
       },
       {
@@ -569,7 +569,7 @@
             "meta.definition.attribute-entry punctuation.separator"
          ],
          "settings": {
-            "foreground": "#897100"
+            "foreground": "#8a7000"
          }
       },
       {
@@ -630,7 +630,7 @@
             "source.zig keyword.structure"
          ],
          "settings": {
-            "foreground": "#d83400"
+            "foreground": "#dc2d00"
          }
       },
       {
@@ -647,7 +647,7 @@
             "source.tf entity.name"
          ],
          "settings": {
-            "foreground": "#00853e"
+            "foreground": "#008526"
          }
       },
       {
@@ -667,7 +667,7 @@
             "text.tex markup.raw"
          ],
          "settings": {
-            "foreground": "#008448"
+            "foreground": "#008541"
          }
       },
       {
@@ -716,7 +716,7 @@
             "source.tf support.class"
          ],
          "settings": {
-            "foreground": "#007e91"
+            "foreground": "#007d98"
          }
       },
       {
@@ -753,7 +753,7 @@
             "entity.name.scope-resolution.function.call"
          ],
          "settings": {
-            "foreground": "#007e95"
+            "foreground": "#007aaf"
          }
       },
       {
@@ -807,7 +807,7 @@
             "markup.substitution"
          ],
          "settings": {
-            "foreground": "#0075cd"
+            "foreground": "#0070e0"
          }
       },
       {
@@ -817,7 +817,7 @@
             "invalid.illegal"
          ],
          "settings": {
-            "foreground": "#da3000"
+            "foreground": "#e41700"
          }
       },
       {

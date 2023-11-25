@@ -629,7 +629,7 @@
             "source.zig keyword.structure"
          ],
          "settings": {
-            "foreground": "#ed6b39"
+            "foreground": "#eb6d3c"
          }
       },
       {
@@ -688,7 +688,7 @@
             "source.zig keyword.constant.default"
          ],
          "settings": {
-            "foreground": "#957fff"
+            "foreground": "#9580fb"
          }
       },
       {
@@ -816,7 +816,7 @@
             "invalid.illegal"
          ],
          "settings": {
-            "foreground": "#f6642b"
+            "foreground": "#f06934"
          }
       },
       {
